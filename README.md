@@ -22,7 +22,8 @@ Step 6: Compare the graphs (Training set, Testing set) and hence we obtained the
 
 Step 7: End the program. 
 
-## Program:
+## Program
+~~~
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: kathirvel A
@@ -58,6 +59,7 @@ plt.ylabel("Scores")
 plt.show()
 
 */
+~~~
 
 ## Output:
 ![simple linear regression model for predicting the marks scored](sam.png)
