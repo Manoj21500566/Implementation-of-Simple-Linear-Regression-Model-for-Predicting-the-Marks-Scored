@@ -26,8 +26,8 @@ Step 7: End the program.
 ~~~
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: kathirvel A
-RegisterNumber:21002362
+Developed by: Manoj M
+RegisterNumber:21500566
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
